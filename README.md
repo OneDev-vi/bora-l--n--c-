@@ -21,6 +21,6 @@
 ## Agora aqui é o link de um documento HTML **que ainda estou fazendo**
 ### Esse é o site [teste](html/site-de-test/index.html)
 ---
-![Imagens](yeeepp.png)
+![Imagens](niko.gif)
 #### Para abrir o editor Markdown
 1. Ctrl+Shift+V
