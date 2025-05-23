@@ -31,4 +31,7 @@ int main() {
     cin >> array;
     cout << "Esse são o valores que você atribuiu as variaveis\n";
     cout << inteiros << "\n" << ponto  << "\n" << pontos << "\n" << VOrF << "\n" << s << "\n" << sal << "\n" << array << endl;
+    cout << "Precione a tecla ENTER para sair do programa" << endl;
+    cin.get();
+    cout << "-----------------------------------------------------------------------------------------------------------------" << endl;
 }
