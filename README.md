@@ -17,6 +17,8 @@
     - \#So para fazer bibliotecas dinamicas
 8. **Linux**
     - \#eu utilizo o **LUBUNTU** "então não sei se eu compilar codigo no linux eu ***não sei se Você vai conseguir eecutar no WINDOWS***"
+9. **MakeFile**
+    - \#Ele usa para altomatizar a compilação. Parece **Interesnate**
 ---
 ## Agora aqui é o link de um documento HTML **que ainda estou fazendo**
 ### Esse é o site [teste](html/site-de-test/index.html)
