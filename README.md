@@ -16,7 +16,7 @@
 7. **Bibliotecas(.DLL)**
     - \#So para fazer bibliotecas dinamicas.
 8. **Linux**
-    - \#eu utilizo o **LUBUNTU** "então não sei se eu compilar codigo no      linux eu ***não sei se Você vai conseguir excutar no WINDOWS***".
+    - \#eu utilizo o **LUBUNTU** "então não sei se eu compilar codigo no      linux eu ***não sei se Você vai conseguir executar no WINDOWS***".
 9. **MakeFile**
     - \#Ele usa para altomatizar a compilação. Parece **Interesnate**.
 ---
